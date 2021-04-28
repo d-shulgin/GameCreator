@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>data/models/monkey.obj</file>
+        <file>data/models/angel/Angel.mtl</file>
+        <file>data/models/angel/Angel.obj</file>
+    </qresource>
+</RCC>

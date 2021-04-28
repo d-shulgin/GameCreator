@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/">
+        <file>data/face.png</file>
+        <file>data/bgr.png</file>
+        <file>data/particles/smoke.png</file>
+        <file>data/mask_2x2.png</file>
+        <file>data/wood.png</file>
+        <file>data/bricks.png</file>
+        <file>data/bricks_2.png</file>
+        <file>data/debug/camera_icon1_128.png</file>
+        <file>data/debug/camera_icon2_128.png</file>
+        <file>data/sky/sky1_4096.png</file>
+        <file>data/models/angel/cloth.png</file>
+        <file>data/models/angel/eye.png</file>
+        <file>data/models/angel/eye_matcap.png</file>
+        <file>data/models/angel/Eyeline.png</file>
+        <file>data/models/angel/hair.png</file>
+        <file>data/models/angel/highlight.png</file>
+        <file>data/models/angel/skin.png</file>
+        <file>data/models/angel/skin_matcap.png</file>
+        <file>data/models/angel/skin_nail_matcap.png</file>
+        <file>data/models/angel/skin_out.png</file>
+        <file>data/models/angel/wing.png</file>
+    </qresource>
+</RCC>

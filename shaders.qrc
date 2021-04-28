@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>shaders/main.fsh</file>
+        <file>shaders/main.vsh</file>
+        <file>shaders/skybox.fsh</file>
+        <file>shaders/skybox.vsh</file>
+        <file>shaders/model.fsh</file>
+        <file>shaders/model.vsh</file>
+        <file>shaders/shadow.fsh</file>
+        <file>shaders/shadow.vsh</file>
+        <file>shaders/depth.fsh</file>
+        <file>shaders/font/fps.fsh</file>
+        <file>shaders/font/fps.vsh</file>
+        <file>shaders/font/main.fsh</file>
+        <file>shaders/font/main.vsh</file>
+    </qresource>
+</RCC>
